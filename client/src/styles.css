@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://img.freepik.com/free-vector/colorful-wavy-background_23-2148494512.jpg?w=1060&t=st=1665146148~exp=1665146748~hmac=56a94f66c2ab6025b0264611c71c338f28950fc4be82c92c450683763c55dc0e);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
